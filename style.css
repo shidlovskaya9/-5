@@ -1,0 +1,79 @@
+.first_page {
+       background: url(фон.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+       font-family: Lena, Regular ; /* Тип шрифта */
+       color: ; /* Цвет текста */
+       font-size: 80px; /* Размер текста в пикселях */
+     }
+
+.button {
+    background-color:slategray;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 70px;
+    margin: 4px 4px;
+    border-radius: 12px;
+    position: relative;
+	left: 50%;
+	margin-top: 20%;
+	transform: translate(-50%, 0);
+	margin-bottom: 50%;
+}
+.second  {
+    background: url(fon.jpg) no-repeat ;
+     }
+.ph1 img {
+	padding: 10%  5% 0 5%;
+    max-width: 40%;
+    margin: 0;
+    float: left;
+
+}
+.text1 p {
+    font-family: Lena, Regular ; /* Тип шрифта */
+    color: ; /* Цвет текста */
+    font-size: 30px; /* Размер текста в пикселях */
+    max-width: 40%;
+    float: right;
+    margin: 10% 5% 0 0;
+}
+th {
+  padding: 15px; 
+  border: 1px solid black;
+}
+td {
+  font-size: 0.8em;
+  padding: 5px 7px;
+  border: 1px solid black;
+}
+table{
+  background:cornflowerblue;
+  text-align: center;
+  border-collapse: collapse; 
+  line-height: 1.1;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background:  radial-gradient(farthest-corner at 80% 20%, blue violet);
+  color: black;
+}
+.table{
+  
+    margin-top: 40%;
+    margin-left: 35%;
+}
+.end {
+    margin-top: 7% 0;
+    text-align: center;
+}
+
+.zadanie {
+  font-size: 30px;
+  color: darkblue;
+  text-align: center;
+}
